@@ -6,3 +6,4 @@
 
 ⊹ Currently learning the Python and Java programming languages. ☕
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevesjuliaa)](https://github.com/anuraghazra/github-readme-stats)
